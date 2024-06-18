@@ -4,5 +4,7 @@ This project is a simple web application built using Streamlit that allows users
 Features
 
 1.Upload XML Files: Upload and process XML files through the web interface.
+
 2.Text Extraction: Parse and extract text from XML.
+
 3.Text Cleaning: Remove HTML tags, text in square brackets, and extra spaces.
